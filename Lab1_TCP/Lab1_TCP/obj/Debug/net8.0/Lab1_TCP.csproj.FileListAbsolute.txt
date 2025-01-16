@@ -1,0 +1,14 @@
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\bin\Debug\net8.0\Lab1_TCP.exe
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\bin\Debug\net8.0\Lab1_TCP.deps.json
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\bin\Debug\net8.0\Lab1_TCP.runtimeconfig.json
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\bin\Debug\net8.0\Lab1_TCP.dll
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\bin\Debug\net8.0\Lab1_TCP.pdb
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.AssemblyInfoInputs.cache
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.AssemblyInfo.cs
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.csproj.CoreCompileInputs.cache
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.dll
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\refint\Lab1_TCP.dll
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.pdb
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\Lab1_TCP.genruntimeconfig.cache
+D:\ASP.NET_core_MVC\Lab1_TCP\Lab1_TCP\obj\Debug\net8.0\ref\Lab1_TCP.dll
