@@ -1,0 +1,26 @@
+﻿<Window x:Class="FetchDataApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        
+        Title="Fetch Data App" Height="350" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="UrlTextBox" Grid.Row="0" Margin="0,0,0,10" Height="30" ToolTip="Enter URL here..."/>
+
+        <TextBox x:Name="ContentTextBox" Grid.Row="1" Margin="0,0,0,10" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Fetch Data" Width="100" Click="FetchDataButton_Click" Margin="0,0,10,0"/>
+            <Button Content="Clear" Width="100" Click="ClearButton_Click" Margin="0,0,10,0"/>
+            <Button Content="Close" Width="100" Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

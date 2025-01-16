@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FetchDataApp/1.0.0": {
+        "runtime": {
+          "FetchDataApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FetchDataApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
